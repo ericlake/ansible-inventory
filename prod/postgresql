@@ -1,0 +1,11 @@
+[prod:children]
+postgresql-prod
+
+[nodes:children]
+postgresql-prod
+
+[postgresql:children]
+postgresql-prod
+
+[postgresql-prod]
+postgres-01.prod.badger.net
