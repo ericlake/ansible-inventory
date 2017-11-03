@@ -1,0 +1,11 @@
+[prod:children]
+ceph-admin-prod
+
+[infra:children]
+ceph-admin-prod
+
+[ceph-admin:children]
+ceph-admin-prod
+
+[ceph-admin-prod]
+ceph-admin-01.prod.badger.net

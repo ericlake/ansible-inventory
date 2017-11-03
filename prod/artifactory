@@ -2,7 +2,7 @@
 artifactory-prod
 xray-prod
 
-[nodes:children]
+[infra:children]
 artifactory-prod
 xray-prod
 

@@ -1,0 +1,11 @@
+[prod:children]
+director-prod
+
+[infra:children]
+director-prod
+
+[director:children]
+director-prod
+
+[director-prod]
+director-01.prod.badger.net

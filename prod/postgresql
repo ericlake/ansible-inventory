@@ -1,7 +1,7 @@
 [prod:children]
 postgresql-prod
 
-[nodes:children]
+[infra:children]
 postgresql-prod
 
 [postgresql:children]
