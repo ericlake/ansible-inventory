@@ -1,0 +1,6 @@
+[badger:children]
+postgress
+
+[postgress]
+postgress-01.stag.badger.net
+
