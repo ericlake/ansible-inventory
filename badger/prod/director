@@ -1,0 +1,6 @@
+[badger:children]
+director
+
+[director]
+director-01.prod.badger.net
+

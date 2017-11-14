@@ -1,0 +1,6 @@
+[badger:children]
+cephadmin
+
+[cephadmin]
+cephadmin-01.stag.badger.net
+
