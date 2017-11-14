@@ -1,0 +1,8 @@
+[badger:children]
+osp-controller
+
+[osp-controller]
+ospcon-01.stag.badger.net
+ospcon-02.stag.badger.net
+ospcon-03.stag.badger.net
+
