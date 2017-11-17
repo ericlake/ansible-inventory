@@ -1,0 +1,11 @@
+[prod:children]
+rocketchat-prod
+
+[infra:children]
+rocketchat-prod
+
+[rocketchat:children]
+rocketchat-prod
+
+[rocketchat-prod]
+admintest-02.prod.badger.net
