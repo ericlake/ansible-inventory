@@ -1,0 +1,5 @@
+[badger:children]
+osp-rbac
+
+[osp-rbac]
+toolbox-01.stag.badger.net

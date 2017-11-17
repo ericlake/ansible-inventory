@@ -1,0 +1,8 @@
+[badger:children]
+osp-compute
+
+[osp-compute]
+ospnova-01.stag.badger.net
+ospnova-02.stag.badger.net
+ospnova-03.stag.badger.net
+
